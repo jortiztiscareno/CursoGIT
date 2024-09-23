@@ -1,0 +1,2 @@
+crear rama y pasarse a esa rama
+git checkout -b "nombre de la rama"
